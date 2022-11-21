@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Tecnologías para manufactura aditiva y tipos de impresión 3D**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/225223-CF7-TC-MDLD_DGTL_PRDCTS_INDSTRLS](https://sena-externos.github.io/225223-CF7-TC-MDLD_DGTL_PRDCTS_INDSTRLS)
 
 #
 

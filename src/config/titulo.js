@@ -1,1 +1,1 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports = 'Tecnologías para manufactura aditiva y tipos de impresión 3D'
