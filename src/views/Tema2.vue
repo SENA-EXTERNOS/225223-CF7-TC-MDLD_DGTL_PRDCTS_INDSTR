@@ -41,7 +41,9 @@
 
           .row(titulo="Sexto Concepto")
             p El último concepto corresponde al pos- procesamiento de la pieza, en donde se mejoran de manera considerable detalles como los contornos resultantes de la pieza por medio de técnicas adecuadas como el lijado, el pulido, la pintura y otros métodos que se describirán en los siguientes temas.
-          
+      
+      Separador
+
     #t_2_1.titulo-segundo.color-acento-botones
       h2 2.1 Historia y ventajas de la impresión 3D
 
@@ -104,8 +106,44 @@
 
           .col-md-6.mb-4.mb-md-0
             p En los años subsiguientes, la adopción de la impresión 3D sigue creciendo y entre 2015 y 2017 ya que se vendieron más de un millón de impresoras 3D de mesa en todo el mundo y las ventas de impresoras industriales tipo (metal) se duplicaron en 2017 respecto al año inmediatamente anterior.
-          
+    p.mb-5 
+      i.fas.fa-circle.text-small.cac.me-2
+      b Ventajas de las impresoras 3D
 
+    p.mb-5 Las ventajas principales que tienen las impresoras 3D según sus fabricantes son las que se muestran a continuación. 
+
+
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/T2/img-10.svg', alt='Texto que describa la imagen')
+        h4.text-center Ventaja 1
+        p Las impresoras 3D son hasta 10 veces más rápidas que otros métodos.
+      .col-md.tarjeta.color-cuadros.p-5.text-white
+        .row.justify-content-around.align-items-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/T2/img-11.svg', alt='Texto que describa la imagen')
+        h4.text-center Ventaja 2
+        p Las impresoras 3D son 5 veces más económicas.
+        
+    .row.justify-content-around.align-items-center
+      .col-md-6.mb-4.mb-md-0
+        p Estas prestaciones hacen que las impresoras 3D sean asequibles para las personas que necesitan prototipos de manera rápida, lo que antes podía tardar días ahora solo toma algunas horas. Otro aspecto fundamental es que son seguras, pequeñas, muy intuitivas en su uso y confiables en cuanto a la calidad de lo que se imprime. Estas características o ventajas han hecho que cada vez sean más populares en lugares como los escuelas o laboratorios de ingeniera en las universidades y en la cultura <i>Maker</i>.
+      .col-md-6
+        figure
+          img(src='@/assets/curso/temas/T2/img-12.png', alt='Texto que describa la imagen')
+          
+    Separador
+
+
+    #t_2_2.titulo-segundo.color-acento-botones
+      h2 2.2 Conceptos básicos de la impresión 3D
+
+
+      
 </template>
 
 <script>
