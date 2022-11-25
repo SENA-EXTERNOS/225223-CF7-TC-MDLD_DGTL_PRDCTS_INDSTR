@@ -152,25 +152,25 @@
 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T2/img-14.svg' alt='AvatarTop')
         p.text-center La impresora 3D es muy parecida al funcionamiento que tiene una impresora tipo inyección de tinta.
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T2/img-14.svg' alt='AvatarTop')
         p.text-center Es manejada o recibe órdenes que se dan desde un computador.
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T2/img-14.svg' alt='AvatarTop')
         p.text-center Al imprimir la maquina construye un modelo en tercera dimensión por capas consecutivas; iniciando en la parte de abajo y terminando en la parte de arriba.
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T2/img-14.svg' alt='AvatarTop')

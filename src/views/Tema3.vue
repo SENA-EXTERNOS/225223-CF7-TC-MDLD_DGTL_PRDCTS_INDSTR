@@ -19,28 +19,28 @@
               br
               | Los materiales más utilizados para la impresión 3D son:
 
-    
-    .row.mb-5
-      .col-md-6.col-lg.mb-5.mb-lg-0
+
+    .row.d-flex.justify-content-center.align-items-center.mb-5
+      .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
-          .tarjeta.color-tar-avatar
+          .tarjeta.config-tar-avatar
             .text-black.p-4
               p.text-center Plásticos. 
 
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
-          .tarjeta.color-tar-avatar
+          .tarjeta.config-tar-avatar
             .p-4
               p.text-center Metales.
 
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
-          .tarjeta.color-tar-avatar
+          .tarjeta.config-tar-avatar
             .p-4
-              p Polvo.
+              p.text-center Polvo.
         
     p.mb-5 
       i.fas.fa-circle.text-small.cac.me-2

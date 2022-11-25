@@ -18,25 +18,25 @@
       
   
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T1/img-2.svg' alt='AvatarTop')
         p.text-center Parte de un modelo virtual.
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T1/img-3.svg' alt='AvatarTop')
         p.text-center Se usa un proceso aditivo. 
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T1/img-4.svg' alt='AvatarTop')
         p.text-center En el proceso aditivo el material se va pegando (consolidando) en capas de manera sucesiva hasta tener la pieza requerida.
 
-      .tarjeta.color-slyder-f.p-4
+      .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T1/img-5.svg' alt='AvatarTop')
