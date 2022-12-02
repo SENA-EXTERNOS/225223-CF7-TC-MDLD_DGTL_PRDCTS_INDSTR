@@ -79,7 +79,7 @@
 
 
     .col-md-10.mx-auto.mb-5
-      .cajon.color-acento-botones.p-4
+      .cajon.color-acento-botones.p-4.color-amarillo
         p.mb-0 Para explorar los demás recursos que se encuentran disponibles en este componente formativo, hay que dirigirse al menú principal en donde se encontrará la síntesis, una actividad didáctica, material complementario, entre otros.
 
 

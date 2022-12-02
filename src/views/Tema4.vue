@@ -11,7 +11,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0 Este paradigma de aprendizaje toma como base únicamente los datos de entrada, sin explicarle al sistema qué resultado se espera obtener. Podría ser un poco difícil de concebir, pues si no hay una referencia previa, ¿de qué manera podrían los sistemas aprender?
+            p.mb-0 La configuración de la calibración es una función de la impresora 3D y es un aspecto básico e importante que se tiene que aprender; algunas de las características de la calibración resaltan varios aspectos que se verán a continuación:
         .col-lg-4.mb-4.mb-lg-0
           figure
             img(src='@/assets/curso/temas/T4/img-1.png', alt='')
@@ -19,7 +19,7 @@
 
 
     .tarjeta.color-linea-tiempo-c.p-4.mb-5
-      LineaTiempoC.color-acento-botones(text-small)
+      LineaTiempoC.color-acento-botones
         .row.justify-content-around.align-items-center(titulo="Aspecto 1")
           .col-md-6
             p En la actualidad las casas fabricantes de impresoras están abriendo la puerta a que la calibración sea de manera automática o automatizada.

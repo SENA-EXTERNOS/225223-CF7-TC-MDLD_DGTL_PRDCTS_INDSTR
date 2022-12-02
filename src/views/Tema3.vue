@@ -50,11 +50,9 @@
       .col-8
         TabsA.color-acento-contenido.mb-5      
           .tarjeta.color-acento-botones--borde.p-4(titulo="Termoplásticos")
-            h4 Termoplásticos
             p Estos son los materiales que a temperaturas relativamente altas se vuelven deformables, suelen ser más utilizados para aplicaciones funcionales.
             
           .tarjeta.color-acento-botones--borde.p-4(titulo="Termoestables")
-            h4 Termoestables
             p Los cuales se pueden calentar y moldear, pero solo una sola vez nada más, esto corresponde a que si se vuelven a calentar se queman; por ello, suelen ser más utilizados en aplicaciones que se requiere una buena apariencia de tipo visual.  
 
 
@@ -64,7 +62,7 @@
 
       
     .col-md-10.mx-auto.mb-5
-      .cajon.color-acento-botones.p-4
+      .cajon.color-acento-botones.p-4.color-amarillo
         p.mb-0 Por lo anterior se evidencia, que este tipo de material es <b>ligero</b> y que tiene como formato o aspecto físico el de <b>filamento</b>, contenido en una amplia gama de propiedades físicas, adecuados en especial para fines de creación de prototipos, como para algunas aplicaciones funcionales, los anteriores (materiales) son los más comunes en estos tipos de impresiones.
 
 
@@ -93,7 +91,7 @@
         figure
           img(src='@/assets/curso/temas/T3/img-6.svg', alt='Texto que describa la imagen')
 
-      div(x="21.8%" y="92%" tooltip="Plástico")
+      div(x="21.8%" y="92%")
         .row
           .col-md-2
             figure
@@ -141,7 +139,7 @@
                 | Para realizar prototipos de alto nivel en detalle y/o para superficie lisas, muy similar a los moldes de inyección.
 
 
-      div(x="59%" y="92%" tooltip="Convertir a formato STL")
+      div(x="59%" y="92%")
         .row
           .col-md-2
             figure
@@ -151,13 +149,13 @@
             p.mb-3 Entre los metales más conocidos se tienen:
               p 
                 i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento PLA:  
-                | Es el plástico de impresión 3D más habitual; contiene alta rigidez, buen acabado y es asequible.
+                strong.cp Acero inoxidable:  
+                | Es una aleación metálica de gran resistencia al desgaste y a la corrosión por lo que se puede soldar, mecanizar y pulir fácilmente.
 
               p 
                 i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Acero inoxidable:   
-                | Es una aleación metálica de gran resistencia al desgaste y a la corrosión por lo que se puede soldar, mecanizar y pulir fácilmente. 
+                strong.cp Aluminio:    
+                | Metal con buena relación resistencia y peso, con alta conductividad eléctrica y térmica, pero con baja resistencia y densidad a la intemperie.
 
               p 
                 i.fas.fa-circle.cad.me-2.text-small
@@ -169,7 +167,7 @@
                 strong.cp La fusión por haz de electrones o EDM (<i>Electron Beam Melting</i>):
                 | Es una tecnología de impresión 3D de metales en donde se utiliza haz de electrones, que está controlado por bobinas electromagnéticas para así fundir el polvo metálico. 
 
-      div(x="97%" y="92%" tooltip="<i>Slicing</i> (Rebanado)")
+      div(x="97%" y="92%")
         .row
           .col-md-2
             figure
