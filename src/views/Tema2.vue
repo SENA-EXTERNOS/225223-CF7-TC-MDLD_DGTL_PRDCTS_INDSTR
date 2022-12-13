@@ -28,7 +28,7 @@
             p El primer concepto es la creación del contenido, es decir la pieza que se diseña; gracias a un software tipo CAD (diseño asistido por computador).
 
           .row(titulo="Segundo Concepto")
-            p El segundo término o concepto es generar un formato compatible para que así la impresora pueda realizar la impresión. Este formato es denominado formato STL que significa <i>Stereo Lithography</i>.
+            p El segundo término o concepto es generar un formato compatible para que así la impresora pueda realizar la impresión. Este formato es denominado formato STL que significa <em>Stereo Lithography</em>.
 
           .row(titulo="Tercer Concepto")
             p El siguiente concepto es el rebanado, que es el proceso de traducir el archivo 3D en instrucciones para que la impresora 3D las siga.

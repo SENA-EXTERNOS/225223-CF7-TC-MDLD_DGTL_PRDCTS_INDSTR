@@ -9,10 +9,10 @@
 
     .bloque-texto-a.color-secundario-custom.invert.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-8
+        .col-md-10
           .bloque-texto-a__texto.p-4
             p.mb-0 La configuración de la calibración es una función de la impresora 3D y es un aspecto básico e importante que se tiene que aprender; algunas de las características de la calibración resaltan varios aspectos que se verán a continuación:
-        .col-lg-4.mb-4.mb-lg-0
+        .col-md-2.mb-4.mb-lg-0
           figure
             img(src='@/assets/curso/temas/T4/img-1.png', alt='')
 
