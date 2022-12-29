@@ -71,12 +71,10 @@
             h4 Pasos cortos
             p En la realización de piezas u objetos complejos estos son producidos en un solo paso, eliminando pasos extensos para su realización.
 
-      .col-3
+      .col-md-3
         figure
           img(src="@/assets/curso/temas/T1/img-6.png", alt="Texto que describa la imagen")
     
-
-
 </template>
 
 <script>

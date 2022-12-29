@@ -16,7 +16,7 @@
           figure
             img(src='@/assets/curso/temas/T4/img-1.png', alt='')
 
-
+    p La configuración de la calibración es una función de la impresora 3D y es un aspecto básico e importante que se tiene que aprender; algunas de las características de la calibración resaltan varios aspectos que se verán a continuación:
 
     .tarjeta.color-linea-tiempo-c.p-4.mb-5
       LineaTiempoC.color-acento-botones
@@ -52,7 +52,7 @@
 
         .row.justify-content-around.align-items-center(titulo="Aspecto 4")
           .col-md-6
-            p Por último, cuando no hay una correcta calibración de la impresora se pueden crear impresiones defectuosas; por ello es que de la calibración dependen muchas cosas para tener una buena impresión. Es la configuración que impulsa a hacer piezas con mayor precisión debido a que sin una adecuada precisión los diseños realizados por los programas informáticos CAD, no serán de utilidad alguna cuando sean impresos. 
+            p Por último, cuando no hay una correcta calibración de la impresora se pueden crear impresiones defectuosas; por ello es que de la calibración dependen muchas cosas para tener una buena impresión. Es la configuración que impulsa a hacer piezas con mayor precisión debido a que sin esta, los diseños realizados por los programas informáticos CAD, no serán de utilidad alguna cuando sean impresos. 
           
           .col-md-4.mb-4.mb-md-0
             figure

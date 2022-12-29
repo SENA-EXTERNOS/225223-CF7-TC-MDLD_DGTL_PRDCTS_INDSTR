@@ -12,8 +12,8 @@
         figure
           img(src='@/assets/curso/temas/T2/img-1.png', alt='Texto que describa la imagen')
       .col-md-6.mb-4.mb-md-0
-        p.mb-3 En términos generales la impresión tipo 3D es un proceso de adición progresiva y ordenada de material hasta conformar la pieza que se está consolidación o imprimiendo. Toda esta tecnología ha pasado por varios años de maduración o de desarrollo para consolidarse, haciendo parte de la cuarta revolución industrial propiamente dicha en este momento actual.
-        p.mb-5 Desde los inicios entre los años 1980 y 2000 en donde además de su aparición se evidencia el crecimiento e importancia de la misma por sus múltiples beneficios como la creación de objetos o de piezas, según la necesidad del cliente o del contexto(mercado) toda esta tecnología está muy desarrollada ahora en el área industrial; el punto transversal del presente documento. 
+        p En términos generales la impresión tipo 3D es un proceso de adición progresiva y ordenada de material hasta conformar la pieza que se está consolidación o imprimiendo. Toda esta tecnología ha pasado por varios años de maduración o de desarrollo para consolidarse, haciendo parte de la cuarta revolución industrial propiamente dicha en este momento actual.
+        p Desde los inicios entre los años 1980 y 2000 en donde además de su aparición se evidencia el crecimiento e importancia de la misma por sus múltiples beneficios como la  creación de objetos o de piezas, según la necesidad del cliente o del contexto(mercado). Toda esta tecnología está muy desarrollada ahora en el área industrial; el punto transversal del presente documento.
 
     p.mb-5 La impresión 3D o tridimensional tiene ciertos conceptos o términos que se deben conocer para así poder manejarla con propiedad cuando se realice la impresión. Estos conceptos están relacionados al proceso de la impresión en sí mismo.
       
@@ -25,10 +25,14 @@
       .col-7
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Primer Concepto")
-            p El primer concepto es la creación del contenido, es decir la pieza que se diseña; gracias a un software tipo CAD (diseño asistido por computador).
+            p El primer concepto es la creación del contenido, es decir la pieza que se diseña; gracias a un 
+              em software 
+              | tipo CAD (diseño asistido por computador).
 
           .row(titulo="Segundo Concepto")
-            p El segundo término o concepto es generar un formato compatible para que así la impresora pueda realizar la impresión. Este formato es denominado formato STL que significa <em>Stereo Lithography</em>.
+            p El segundo término o concepto es generar un formato compatible para que así la impresora pueda realizar la impresión. Este formato es denominado formato STL que significa
+              em Stereo Lithography
+              | .
 
           .row(titulo="Tercer Concepto")
             p El siguiente concepto es el rebanado, que es el proceso de traducir el archivo 3D en instrucciones para que la impresora 3D las siga.
@@ -58,6 +62,7 @@
 
           .col-md-6.mb-4.mb-md-0
             p Antes de que existiera el proceso de impresión tridimensional o (3D) las piezas o los prototipos se tallaban en madera o se pegaban con trozos de plástico o cartón; lo que implicaba invertir mucho tiempo y además podía tardar varios días o incluso semanas en hacerse; por ende, era común que su precio fuera muy costoso.
+            p El autor de ciencia ficción Arthur Clarke fue uno de los primeros en describir las diferentes funciones a nivel básico de una impresora tipo 3D en el año 1964.
         
         .row.justify-content-around.align-items-center(titulo="Funciones <br>básicas")
           .col-md-6
@@ -65,7 +70,7 @@
               img(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p El autor de ciencia ficción Arthur Clarke fue uno de los primeros en describir las diferentes funciones a nivel básico de una impresora tipo 3D en el año 1964.
+            p A pesar de que las impresoras 3D comparten ciertas similitudes con las impresoras de inyección de tinta, existen algunas caracarterísticas que la convierten en un sistema poco convencional, como los materiales que usa y su flexibilidad, conozca a continuación sobre estos.
 
         .row.justify-content-around.align-items-center(titulo="Primera <br>impresora 3D")
           .col-md-6
@@ -73,7 +78,9 @@
               img(src='@/assets/curso/temas/T2/img-5.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p La historia cuenta que la primera impresora 3D fue lanzada en el año 1987 gracias a la empresa 3D <i>Systems</i> y para ese tiempo se utilizaba el proceso de «estereolitografía» (SLA) que perdura en la actualidad.
+            p La historia cuenta que la primera impresora 3D fue lanzada en el año 1987 gracias a la empresa 3D 
+              em Systems 
+              | y para ese tiempo se utilizaba el proceso de «estereolitografía» (SLA) que perdura en la actualidad.
 
         .row.justify-content-around.align-items-center(titulo="Otras <br>tecnologías")
           .col-md-6
@@ -105,7 +112,7 @@
               img(src='@/assets/curso/temas/T2/img-9.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p En los años subsiguientes, la adopción de la impresión 3D sigue creciendo y entre 2015 y 2017 ya que se vendieron más de un millón de impresoras 3D de mesa en todo el mundo y las ventas de impresoras industriales tipo (metal) se duplicaron en 2017 respecto al año inmediatamente anterior.
+            p En los años subsiguientes, la adopción de la impresión 3D sigue creciendo y entre 2015 y 2017, ya que se vendieron más de un millón de impresoras 3D de mesa en todo el mundo y las ventas de impresoras industriales tipo (metal) se duplicaron en 2017 respecto al año inmediatamente anterior.
     p.mb-5 
       i.fas.fa-circle.text-small.cac.me-2
       b Ventajas de las impresoras 3D
@@ -131,7 +138,7 @@
         
     .row.justify-content-around.align-items-center
       .col-md-6.mb-4.mb-md-0
-        p Estas prestaciones hacen que las impresoras 3D sean asequibles para las personas que necesitan prototipos de manera rápida, lo que antes podía tardar días ahora solo toma algunas horas. Otro aspecto fundamental es que son seguras, pequeñas, muy intuitivas en su uso y confiables en cuanto a la calidad de lo que se imprime. Estas características o ventajas han hecho que cada vez sean más populares en lugares como los escuelas o laboratorios de ingeniera en las universidades y en la cultura <i>Maker</i>.
+        p Estas prestaciones hacen que las impresoras 3D sean asequibles para las personas que necesitan prototipos de manera rápida, lo que antes podía tardar días ahora solo toma algunas horas. Otro aspecto fundamental es que son seguras, pequeñas, muy intuitivas en su uso y confiables en cuanto a la calidad de lo que se imprime. Estas características o ventajas han hecho que cada vez sean más populares en lugares como los escuelas o laboratorios de ingeniería en las universidades y en la cultura <i>Maker</i>.
       .col-md-6
         figure
           img(src='@/assets/curso/temas/T2/img-12.png', alt='Texto que describa la imagen')
@@ -147,7 +154,9 @@
         figure
           img(src='@/assets/curso/temas/T2/img-13.svg', alt='Texto que describa la imagen')
       .col-md-9.mb-4.mb-md-0
-        p.mb-2 Según lo anterior, las impresoras 3D utilizan los programas informáticos o software de diseño asistido por ordenador (CAD), para así realizar o diseñar los objetos tipo 3D, esto para posteriormente realizar la impresión con diversos materiales.
+        p.mb-2 Según lo anterior, las impresoras 3D utilizan los programas informáticos o 
+          em software 
+          | de diseño asistido por ordenador (CAD), para así realizar o diseñar los objetos tipo 3D, esto para posteriormente realizar la impresión con diversos materiales.
         p.mb-5 Para entender los conceptos básicos de una impresora 3D regular se debe entender que:
 
 
@@ -168,7 +177,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T2/img-14.svg' alt='AvatarTop')
-        p.text-center Al imprimir la maquina construye un modelo en tercera dimensión por capas consecutivas; iniciando en la parte de abajo y terminando en la parte de arriba.
+        p.text-center Al imprimir la máquina construye un modelo en tercera dimensión por capas consecutivas; iniciando en la parte de abajo y terminando en la parte de arriba.
 
       .tarjeta.config-slyder-f.p-4
         .row.justify-content-center.mb-3
@@ -179,6 +188,8 @@
     .col-md-10.mx-auto.mb-5
       .cajon.color-acento-contenido.p-4.color-celeste
         p.mb-0 Al darle la orden por medio de un computador a la impresora para que realice la impresión, esta lo hace de manera automática e ininterrumpida; de esta manera, crea un modelo en el que se invierten varias horas para su realización y convierte así un dibujo realizado en un sistema (CAD) en 3D. Todo lo anterior, soportado sobre infinidad de capas, lo que quiere decir que son impresiones de tipo 2D separadas donde se colocan una encima de otra, pero sin el papel en medio de ellas.
+
+    p Además de lo anterior se deben tener en cuenta otros aspectos como son: 
 
     TabsC.color-primario
       .py-3.py-md-4(titulo="<b>Materiales</b>")
@@ -199,7 +210,6 @@
         
     Separador
 
-
     #t_2_3.titulo-segundo.color-acento-botones
       h2 2.3 Proceso para la impresión de una pieza 3D
 
@@ -217,17 +227,17 @@
           p 
             i.fas.fa-circle.cad.me-2.text-small
             strong.cp Por medio del Diseño: 
-            | El cual se realiza gracias a los <i>softwares</i> de modelado 3D, como son <i>SolidWorks</i>, <i>Blender</i>, <i>SketchUp</i>, <i>AutoCad</i>, Maya, <i>PhotoShop</i>, <i>ThinkerCad</i> entre otros; cabe rescatar que casi todos los programas de modelamiento 3D tienen la característica de utilizarse para crear un archivo imprimible en impresoras 3D.
+            | el cual se realiza gracias a los <i>softwares</i> de modelado 3D, como son <i>SolidWorks</i>, <i>Blender</i>, <i>SketchUp</i>, <i>AutoCad</i>, Maya, <i>PhotoShop</i>, <i>ThinkerCad</i> entre otros; cabe rescatar que casi todos los programas de modelamiento 3D tienen la característica de utilizarse para crear un archivo imprimible en impresoras 3D.
 
           p 
             i.fas.fa-circle.cad.me-2.text-small
             strong.cp Cuando se realiza un escaneado:  
-            | Este se hace por medio de escaneo 3D; se recuerda que esta es una tecnología que analiza un objeto real y crea una réplica digital. Este tipo de escaneado 3D se utiliza para tareas de ingeniería (inversa). Una vez digitalizado el objeto, se tiene la posibilidad de modificarlo antes de realizar la impresión 3D. 
+            | este se hace por medio de escaneo 3D; se recuerda que esta es una tecnología que analiza un objeto real y crea una réplica digital. Este tipo de escaneado 3D se utiliza para tareas de ingeniería (inversa). Una vez digitalizado el objeto, se tiene la posibilidad de modificarlo antes de realizar la impresión 3D. 
 
           p 
             i.fas.fa-circle.cad.me-2.text-small
             strong.cp Descargar archivos compatibles con la impresión 3D: 
-            | Para esto se pueden visitar diferentes páginas web como <i>YouMagine</i>, <i>CrabCad</i>, <i>MyMinifactory</i>, <i>Thingivers</i> y <i>Shapeways</i>, ya sea para descargar o comprar archivos que otros usuarios han publicado y modelado; casi siempre estos archivos están listos para realizar la impresión 3D.
+            | para esto se pueden visitar diferentes páginas web como <i>YouMagine</i>, <i>CrabCad</i>, <i>MyMinifactory</i>, <i>Thingivers</i> y <i>Shapeways</i>, ya sea para descargar o comprar archivos que otros usuarios han publicado y modelado; casi siempre estos archivos están listos para realizar la impresión 3D.
         p.mb-5 Existen algunos requerimientos para el diseño de los archivos 3D que tienen que cumplirse antes de la impresión, ya que se deben tener en cuenta aspectos como el grosor mínimo de las paredes, el tamaño adecuado de la escala y la estanqueidad (propiedad basada en la capacidad para que no penetren determinadas partículas).
 
 
@@ -239,7 +249,7 @@
         p Este es el proceso que consta de traducir el archivo 3D en varias instrucciones para que la impresora 3D lo genere, es decir que consiste en dividir o cortar este modelo en cientos de capas horizontales para que así la máquina determine con exactitud lo que debe hacer. Después de hacer esta división se genera en nuevo formato de archivo llamado G-code, con la extensión GCODE, este es el lenguaje de programación de código numérico más usual en la fabricación asistida por ordenador para controlar máquinas y herramientas automatizadas como lo son las impresoras 3D y las máquinas CNC (controles numéricos por ordenador); es decir que este código G es el lenguaje de la máquina y por ello se utiliza para comunicarse con ella y realice lo que se le ordena.
 
       div(x="59%" y="15%")
-        p Las impresoras 3D están conformadas por varias piezas móviles o estáticas; ellas necesitan mantenimiento y una buena calibración para así producir impresiones de manera satisfactoria. La mayoría de estas (impresoras 3D) no necesitan que alguien este para supervisar la impresión, esta máquina seguirá las instrucciones de manera automatizada, según corresponda al código G; es decir que mientras no haya un error en el <i>software</i> o se quede sin filamento (materia prima) no debe haber ningún pare o <i>stop</i> durante el proceso de la impresión.
+        p Las impresoras 3D están conformadas por varias piezas móviles o estáticas; ellas necesitan mantenimiento y una buena calibración para así producir impresiones de manera satisfactoria. La mayoría de estas (impresoras 3D) no necesitan que alguien esté para supervisar la impresión, esta máquina seguirá las instrucciones de manera automatizada, según corresponda al código G; es decir que mientras no haya un error en el <i>software</i> o se quede sin filamento (materia prima) no debe haber ningún pare o <i>stop</i> durante el proceso de la impresión.
 
       div(x="74.5%" y="105%")
         p La extracción varía, según las diferentes tecnologías que contenga la impresión 3D, en algunos casos, como por ejemplo en las impresoras de mesa, es tan sencillo como separar la impresión de la plataforma de construcción; por otro lado, en el caso de las impresoras 3D industriales, la extracción de la pieza es un proceso tipo técnico que requiere habilidades o capacitación de tipo profesional y de equipos especializados, todo esto en un entorno controlado. 

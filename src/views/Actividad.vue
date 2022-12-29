@@ -11,7 +11,10 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Tecnologías para manufactura aditiva y tipos de impresión 3D
-        p.mb-4 Esta actividad le ayudará a repasar y comprobar algunos temas estudiados. A continuación, encontrará conceptos y definiciones que debe relacionar. <b>Mucha suerte en el proceso de aprendizaje.</b>
+        
+        p Apreciado aprendiz, el objetivo de esta actividad es asociar conceptos relacionados a la manufactura aditiva y a la impresión 3D junto con su definición correspondiente, temas que fueron vistos en este componente.
+        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta para el conocimiento de lo relacionado a la manufactura aditiva y los tipos de impresión 3D.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
