@@ -42,7 +42,7 @@
             .p-4
               p.text-center Polvo.
         
-    p.mb-5 
+    h3.mb-5 
       i.fas.fa-circle.text-small.cac.me-2
       b Plásticos
 
@@ -63,11 +63,7 @@
       
     .col-md-10.mx-auto.mb-5
       .cajon.color-acento-botones.p-4.color-amarillo
-        p.mb-0 Por lo anterior se evidencia, que este tipo de material es 
-          b ligero 
-          | y que tiene como formato o aspecto físico el 
-          b filamento
-          | , contenido en una amplia gama de propiedades físicas, adecuados en especial para fines de creación de prototipos, como para algunas aplicaciones funcionales, los anteriores (materiales) son los más comunes en estos tipos de impresiones.
+        p.mb-0 Por lo anterior se evidencia, que este tipo de material es #[b ligero] y que tiene como formato o aspecto físico el de #[b filamento], contenido en una amplia gama de propiedades físicas, adecuados en especial para fines de creación de prototipos, como para algunas aplicaciones funcionales, los anteriores (materiales) son los más comunes en estos tipos de impresiones.
 
 
     h3.titulo-tercero(data-aos='fade-right')
@@ -76,7 +72,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
           .col-md-8.mb-4.mb-md-0
-            p Los metales se utilizan en especial en aplicaciones o piezas que por su rendimiento deben ser resistentes, duras o a veces de alta resistencia térmica. Al usar metal para la impresión de la pieza,  se mitiga de manera considerable el alto costo de la tecnología que se emplearía; se resalta que este tipo de impresión añade el  material capa a capa a partir del diseño 3D digital resultante; siendo de este modo que se construyen piezas con geometrías, imposibles de fabricar con tecnologías habituales como lo es el mecanizado CNC (control número por computadora) o por fundición de metales y descartando con ello, la utilización de un molde para la realización de la pieza.	
+            p Los metales se utilizan en aplicaciones o piezas que por su rendimiento deben ser resistentes o de alta capacidad térmica. Al imprimirse la pieza en metal, se mitiga de manera considerable el costo de su desarrollo, ya que el material es añadido capa a capa a partir del diseño 3D digital, logrando construir piezas con geometrías imposibles de fabricar con las tecnologías convencionales como lo sería, por ejemplo, el mecanizado CNC (control número por computadora) o por fundición de metales, descartando con así, la utilización de moldes para la realización de la pieza.	
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/aj1.png', alt='Texto que describa la imagen')

@@ -16,7 +16,6 @@
           figure
             img(src='@/assets/curso/temas/T4/img-1.png', alt='')
 
-    p La configuración de la calibración es una función de la impresora 3D y es un aspecto básico e importante que se tiene que aprender; algunas de las características de la calibración resaltan varios aspectos que se verán a continuación:
 
     .tarjeta.color-linea-tiempo-c.p-4.mb-5
       LineaTiempoC.color-acento-botones
