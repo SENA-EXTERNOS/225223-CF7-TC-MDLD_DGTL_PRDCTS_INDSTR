@@ -63,7 +63,7 @@
       
     .col-md-10.mx-auto.mb-5
       .cajon.color-acento-botones.p-4.color-amarillo
-        p.mb-0 Por lo anterior se evidencia, que este tipo de material es #[b ligero] y que tiene como formato o aspecto físico el de #[b filamento], contenido en una amplia gama de propiedades físicas, adecuados en especial para fines de creación de prototipos, como para algunas aplicaciones funcionales, los anteriores (materiales) son los más comunes en estos tipos de impresiones.
+        p.mb-0 Por lo anterior se evidencia, que este tipo de material es #[b ligero] y que tiene como formato o aspecto físico el #[b filamento], contenido en una amplia gama de propiedades físicas, adecuados en especial para fines de creación de prototipos, como para algunas aplicaciones funcionales, los anteriores (materiales) son los más comunes en estos tipos de impresiones.
 
 
     h3.titulo-tercero(data-aos='fade-right')
