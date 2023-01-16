@@ -26,21 +26,21 @@
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
           .tarjeta.config-tar-avatar
             .text-black.p-4
-              p.text-center Plásticos. 
+              p.text-center Plásticos
 
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
           .tarjeta.config-tar-avatar
             .p-4
-              p.text-center Metales.
+              p.text-center Metales
 
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/T3/img-2.svg' alt='AvatarTop')
           .tarjeta.config-tar-avatar
             .p-4
-              p.text-center Polvo.
+              p.text-center Polvo
         
     h3.mb-5 
       i.fas.fa-circle.cac.me-2
