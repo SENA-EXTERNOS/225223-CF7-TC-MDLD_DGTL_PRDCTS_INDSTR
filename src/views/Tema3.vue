@@ -96,100 +96,100 @@
             figure
               img(src='@/assets/curso/temas/T3/aj3.svg', alt='Texto que describa la imagen')
 
-      div(x="21.8%" y="92%")
-        .row
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/T3/img-7.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p.mb-3 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento PLA:  
-                | es el plástico de impresión 3D más habitual; contiene alta rigidez, buen acabado y es asequible.
+          div(x="21.8%" y="92%")
+            .row
+              .col-md-2
+                figure
+                  img(src='@/assets/curso/temas/T3/img-7.svg', alt='Texto que describa la imagen')
+              .col-md-6.mb-4.mb-md-0
+                p.mb-3 
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento PLA:  
+                    | es el plástico de impresión 3D más habitual; contiene alta rigidez, buen acabado y es asequible.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento ABS:   
-                | es plástico común, por ende, tiene mejores propiedades térmicas y mecánicas que el PLA.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento ABS:   
+                    | es plástico común, por ende, tiene mejores propiedades térmicas y mecánicas que el PLA.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento de Nylon:  
-                | se utiliza para sustituir piezas (funcionales) y moldeadas por inyección.
-            
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento PETG:  
-                | ideal para piezas mecánicas resistentes al impacto y flexibilidad.
-              
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento TPU:  
-                | material similar al caucho, adecuado para piezas como tubos, agarraderas y cierres.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento de Nylon:  
+                    | se utiliza para sustituir piezas (funcionales) y moldeadas por inyección.
+                
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento PETG:  
+                    | ideal para piezas mecánicas resistentes al impacto y flexibilidad.
+                  
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento TPU:  
+                    | material similar al caucho, adecuado para piezas como tubos, agarraderas y cierres.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento ASA: 
-                | tiene estabilidad a los rayos UV teniendo alta resistencia química, es un material ideal para aplicaciones en exteriores.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento ASA: 
+                    | tiene estabilidad a los rayos UV teniendo alta resistencia química, es un material ideal para aplicaciones en exteriores.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Filamento PEI: 
-                | material de plástico especial para ingeniería (aplicaciones de alto rendimiento).
-              
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Resina: 
-                | para realizar prototipos de alto nivel en detalle y/o para superficie lisas, muy similar a los moldes de inyección.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Filamento PEI: 
+                    | material de plástico especial para ingeniería (aplicaciones de alto rendimiento).
+                  
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Resina: 
+                    | para realizar prototipos de alto nivel en detalle y/o para superficie lisas, muy similar a los moldes de inyección.
 
 
-      div(x="59%" y="92%")
-        .row
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p.mb-4 En el proceso de impresión se utilizan metales en aplicaciones que requieren mucha resistencia en el objeto a realizar. En este tipo de trabajo se optimiza la topología (propiedades de los cuerpos geométricos) que es vital para así maximizar el rendimiento de la pieza y reducir el alto costo que se genera. 
-            p.mb-3 Entre los metales más conocidos se tienen:
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Acero inoxidable:  
-                | es una aleación metálica de gran resistencia al desgaste y a la corrosión por lo que se puede soldar, mecanizar y pulir fácilmente.
+          div(x="59%" y="92%")
+            .row
+              .col-md-2
+                figure
+                  img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
+              .col-md-6.mb-4.mb-md-0
+                p.mb-4 En el proceso de impresión se utilizan metales en aplicaciones que requieren mucha resistencia en el objeto a realizar. En este tipo de trabajo se optimiza la topología (propiedades de los cuerpos geométricos) que es vital para así maximizar el rendimiento de la pieza y reducir el alto costo que se genera. 
+                p.mb-3 Entre los metales más conocidos se tienen:
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Acero inoxidable:  
+                    | es una aleación metálica de gran resistencia al desgaste y a la corrosión por lo que se puede soldar, mecanizar y pulir fácilmente.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Aluminio:    
-                | metal con buena relación resistencia y peso, con alta conductividad eléctrica y térmica, pero con baja resistencia y densidad a la intemperie.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Aluminio:    
+                    | metal con buena relación resistencia y peso, con alta conductividad eléctrica y térmica, pero con baja resistencia y densidad a la intemperie.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp El metal <i>binder jetting</i> o en su traducción inyección aglutinante:   
-                | es un metal caracterizado en la actualidad por su menor costo.
-            
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp La fusión por haz de electrones o EDM (<i>Electron Beam Melting</i>):
-                | es una tecnología de impresión 3D de metales en donde se utiliza haz de electrones, que está controlado por bobinas electromagnéticas para así fundir el polvo metálico. 
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp El metal <i>binder jetting</i> o en su traducción inyección aglutinante:   
+                    | es un metal caracterizado en la actualidad por su menor costo.
+                
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp La fusión por haz de electrones o EDM (<i>Electron Beam Melting</i>):
+                    | es una tecnología de impresión 3D de metales en donde se utiliza haz de electrones, que está controlado por bobinas electromagnéticas para así fundir el polvo metálico. 
 
-      div(x="97%" y="92%")
-        .row
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p.mb-4 Las impresoras 3D más modernas utilizan este tipo de materiales en polvo para construir los productos o piezas. Los polvos pueden proceder de diversas fuentes como el acero, el cobre y otros tipos de metal que son más fáciles en su transporte y modelamiento, según la forma deseada. Cabe recordar que el polvo metálico debe calentarse hasta el punto en que se funda y se pueda distribuir capa por capa de manera uniforme, para así formar la figura de manera total.
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Alumide:   
-                | polvo resultante de la mezcla de aluminio gris y poliamida; este tipo de polvo permite crear modelos (algunos) impresos en 3D más resistentes. Su aspecto es arenoso y granulado, por lo anterior este es confiable para prototipos y / o modelos industriales.
+          div(x="97%" y="92%")
+            .row
+              .col-md-2
+                figure
+                  img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
+              .col-md-6.mb-4.mb-md-0
+                p.mb-4 Las impresoras 3D más modernas utilizan este tipo de materiales en polvo para construir los productos o piezas. Los polvos pueden proceder de diversas fuentes como el acero, el cobre y otros tipos de metal que son más fáciles en su transporte y modelamiento, según la forma deseada. Cabe recordar que el polvo metálico debe calentarse hasta el punto en que se funda y se pueda distribuir capa por capa de manera uniforme, para así formar la figura de manera total.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Alumide:   
+                    | polvo resultante de la mezcla de aluminio gris y poliamida; este tipo de polvo permite crear modelos (algunos) impresos en 3D más resistentes. Su aspecto es arenoso y granulado, por lo anterior este es confiable para prototipos y / o modelos industriales.
 
-              p 
-                i.fas.fa-circle.cad.me-2.text-small
-                strong.cp Poliamida (
-                  em Nylon
-                  | ):   
-                | este polvo es flexible y resistente, además permite muy buen nivel de detalle del producto impreso; por ello es adecuado para encajar partes y unir piezas y en un modelo impreso (3D). La poliamida se utiliza para imprimir diversos productos; desde manija de automóviles, figuras de juguete y cierres.
+                  p 
+                    i.fas.fa-circle.cad.me-2.text-small
+                    strong.cp Poliamida (
+                      em Nylon
+                      | ):   
+                    | este polvo es flexible y resistente, además permite muy buen nivel de detalle del producto impreso; por ello es adecuado para encajar partes y unir piezas y en un modelo impreso (3D). La poliamida se utiliza para imprimir diversos productos; desde manija de automóviles, figuras de juguete y cierres.
 
 
 
