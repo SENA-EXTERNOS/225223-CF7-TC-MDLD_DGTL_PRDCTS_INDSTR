@@ -43,7 +43,7 @@
               p.text-center Polvo.
         
     h3.mb-5 
-      i.fas.fa-circle.text-small.cac.me-2
+      i.fas.fa-circle.cac.me-2
       b Plásticos
 
     .row.justify-content-center.mb-3
@@ -89,11 +89,12 @@
             p El polvo se utiliza en las impresoras 3D más actuales o modernas para construir productos en los cuales, se funde distribuyéndose en capas hasta conseguir la textura, el grosor y los patrones requeridos. Este tipo de material puede proceder de diversas fuentes y el proceso se concluye con los materiales cerámicos o compuestos, aunque no son muy usuales por el momento en el proceso de impresión 3D. 	
           
     p.mb-5 La composición y características de los 3 tipos de materiales más usados se representan en la infografía.
-
-    ImagenInfograficaB.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/temas/T3/aj3.svg', alt='Texto que describa la imagen')
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        ImagenInfograficaB.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/T3/aj3.svg', alt='Texto que describa la imagen')
 
       div(x="21.8%" y="92%")
         .row
