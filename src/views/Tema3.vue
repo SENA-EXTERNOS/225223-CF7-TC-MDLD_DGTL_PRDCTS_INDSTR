@@ -90,7 +90,7 @@
           
     p.mb-5 La composición y características de los 3 tipos de materiales más usados se representan en la infografía.
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-10
         ImagenInfograficaB.mb-5
           template(v-slot:imagen)
             figure
