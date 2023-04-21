@@ -47,23 +47,23 @@
     .row.justify-content-center.mb-3
       .col-8
         TabsA.color-acento-contenido.mb-5      
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Producción directa")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Producción <br>directa")
             h4 Producción directa
             p Ejecutar la producción de manera directa, reduciendo los tiempos y costos.
             
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Herramientas especializadas")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Herramientas<br> especializadas")
             h4 Herramientas especializadas
             p La no utilización de herramientas especializadas.
                 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Reducción de pesos")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Reducción <br>de pesos")
             h4 Reducción de pesos
             p Reducción considerable de los pesos de los objetos o piezas fabricados, creando así diseños livianos.
             
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Reducción de unión")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Reducción <br>de unión")
             h4 Reducción de unión
             p Se reducen puntos de unión en la piezas u objetos fabricados, debido a que se fabrica por medio de menor cantidad de piezas o incluso solo se hace una pieza.
             
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Complejidad en el diseño")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Complejidad <br>en el diseño")
             h4 Complejidad en el diseño
             p Producir cualquier pieza u objeto que ha sido diseñada de manera virtual o digital con ello se tiene la libertad para el desarrollo de su diseño; con lo anterior se aumenta la complejidad del diseño de la pieza sin tener sobre costo adicionales. 
 
