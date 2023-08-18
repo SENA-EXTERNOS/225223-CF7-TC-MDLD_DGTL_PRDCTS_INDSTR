@@ -45,7 +45,7 @@
     h3.mb-5 
       i.fas.fa-circle.cac.me-2
       b Plásticos
-
+    p.mb-5(data-aos='fade-right') Los materiales plásticos se ecuentran de dos tipos: 
     .row.justify-content-center.mb-3
       .col-9
         TabsA.color-acento-contenido.mb-5      

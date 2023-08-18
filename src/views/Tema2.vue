@@ -70,7 +70,7 @@
               img(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p A pesar de que las impresoras 3D comparten ciertas similitudes con las impresoras de inyección de tinta, existen algunas caracarterísticas que la convierten en un sistema poco convencional, como los materiales que usa y su flexibilidad, conozca a continuación sobre estos.
+            p A pesar de que las impresoras 3D comparten ciertas similitudes con las impresoras de inyección de tinta, existen algunas características que la convierten en un sistema poco convencional, como los materiales que usa y su flexibilidad, conozca a continuación sobre estos.
 
         .row.justify-content-around.align-items-center(titulo="Primera <br>impresora 3D")
           .col-md-6
