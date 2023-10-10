@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La fabricación o las tecnologías para de la realización de manufactura aditiva existen en la industria desde 1980 aproximadamente; desde ese entonces siempre ha tenido éxito tanto en el sector de la industria como en el textil, de joyería, medicina, aeronáutica hasta llegar al arquitectónico. Gracias a este tipo de fabricación, se ve con mayor velocidad nuevos objetos en el mercado; en especial en el área industrial.
+        p.mb-0 La fabricación o las tecnologías para la realización de manufactura aditiva existen en la industria desde 1980 aproximadamente; desde ese entonces siempre ha tenido éxito tanto en el sector de la industria como en el textil, de joyería, medicina, aeronáutica hasta llegar al arquitectónico. Gracias a este tipo de fabricación, se ve con mayor velocidad nuevos objetos en el mercado; en especial en el área industrial.
 
     p.mb-5 Este tipo de fabricación de un objeto tridimensional con tecnología de manufactura aditiva tiene ciertas consideraciones para tener en cuenta, como lo pueden ser:
       
@@ -65,7 +65,7 @@
             
           .tarjeta.color-acento-botones--borde.p-4(titulo="Complejidad <br>en el diseño")
             h4 Complejidad en el diseño
-            p Producir cualquier pieza u objeto que ha sido diseñada de manera virtual o digital con ello se tiene la libertad para el desarrollo de su diseño; con lo anterior se aumenta la complejidad del diseño de la pieza sin tener sobre costo adicionales. 
+            p Producir cualquier pieza u objeto que ha sido diseñada de manera virtual o digital, con ello se tiene la libertad para el desarrollo de su diseño; con lo anterior se aumenta la complejidad del diseño de la pieza sin tener sobrecostos adicionales. 
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Pasos cortos")
             h4 Pasos cortos

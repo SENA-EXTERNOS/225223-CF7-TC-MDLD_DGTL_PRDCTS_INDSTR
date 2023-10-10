@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Primer acercamiento a la impresión
+      h1 Primer acercamiento a la impresión 3D
 
     .row.justify-content-center
       .col-md-6
@@ -38,7 +38,7 @@
             p El siguiente concepto es el rebanado, que es el proceso de traducir el archivo 3D en instrucciones para que la impresora 3D las siga.
 
           .row(titulo="Cuarto Concepto")
-            p El cuarto concepto es por su puesto el correspondiente a la impresión propiamente dicha.
+            p El cuarto concepto es por supuesto el correspondiente a la impresión propiamente dicha.
 
           .row(titulo="Quinto Concepto")
             p Después sigue la extracción de la pieza; es decir el retiro del objeto que ya se imprimió, para ello se requieren habilidades profesionales debido a que es un proceso técnico.
@@ -96,7 +96,7 @@
               img(src='@/assets/curso/temas/T2/img-7.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p En el año 2009 se publicó un documento con la terminología general sobre fabricación aditiva y en este se estableció la impresión 3D como una tecnología de fabricación de tipo industrial.
+            p En el año 2009 se publicó un documento con la terminología general sobre fabricación aditiva, y en este se estableció la impresión 3D como una tecnología de fabricación de tipo industrial.
 
         .row.justify-content-around.align-items-center(titulo="Impresoras de <br>mesa")
           .col-md-6

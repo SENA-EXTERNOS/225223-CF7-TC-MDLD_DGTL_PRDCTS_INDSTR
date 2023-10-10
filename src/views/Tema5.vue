@@ -26,7 +26,7 @@
 
       .row.justify-content-around.align-items-center(titulo="Área aeroespacial ")
         .col-md-6.mb-4.mb-md-0
-          p En el área aeroespacial y aeronáutica los ingenieros están haciendo uso de la versatilidad de la manufactura aditiva para la creación de piezas de tipo técnico fabricando así piezas bastantes robustas y resistentes al calor; además con gran peso y resistentes, es decir ya se están realizando o fabricando herramientas, piezas de aviación, accesorios entre otros, con este tipo de manufactura.
+          p En el área aeroespacial y aeronáutica los ingenieros están haciendo uso de la versatilidad de la manufactura aditiva para la creación de piezas de tipo técnico, fabricando así piezas bastantes robustas y resistentes al calor; además con gran peso y resistentes, es decir ya se están realizando o fabricando herramientas, piezas de aviación, accesorios entre otros, con este tipo de manufactura.
 
         .col-md-4
           figure
@@ -34,7 +34,7 @@
 
       .row.justify-content-around.align-items-center(titulo="Robótica industrial ")
         .col-md-6.mb-4.mb-md-0
-          p La robótica industrial es otro sector impactado por esta tecnología, logrando la creación de prototipos de manera rápida y así obtener piezas que se ajusten algún proyecto de tipo robótico por supuesto. Esta tecnología es pertinente para tener el diseño ideal de un proyecto, alcanzando como resultado piezas ligeras en un menor tiempo de montaje; lo anterior se da gracias a la bondad de materiales que tienen la manufactura aditiva dando con ello la creación o la posibilidad de obtener piezas de robótica con buenas prestaciones o rendimiento a nivel mecánico, además de producir piezas únicas y/o específicas según el proyecto; aspecto que se pude realizar con gran libertad en su diseño.
+          p La robótica industrial es otro sector impactado por esta tecnología, logrando la creación de prototipos de manera rápida y así obtener piezas que se ajusten a algún proyecto de tipo robótico, por supuesto. Esta tecnología es pertinente para tener el diseño ideal de un proyecto, alcanzando como resultado piezas ligeras en un menor tiempo de montaje; lo anterior se da gracias a la bondad de materiales que tienen la manufactura aditiva, dando con ello la creación o la posibilidad de obtener piezas de robótica con buenas prestaciones o rendimiento a nivel mecánico, además de producir piezas únicas y/o específicas según el proyecto; aspecto que se pude realizar con gran libertad en su diseño.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/T5/img-4.png')
@@ -49,7 +49,7 @@
 
       .row.justify-content-around.align-items-center(titulo="Formación y/o educación ")
         .col-md-6.mb-4.mb-md-0
-          p En este sector,  la tecnología aditiva permite dar vida al concepto que se expresa en el diseño CAD materializando las ideas en objetos físicos, por consiguiente este tipo de tecnología facilita el proceso de aprendizaje de los estudiantes desde los ciclos iniciales de la educación como es la primaria hasta llegar a la universidad; con este recorrido en los diferentes ciclos formativos del estudiante se pueden imprimir de manera 3D piezas, arte o maquetas (arquitectónicas) para desarrollar prototipos.
+          p En este sector,  la tecnología aditiva permite dar vida al concepto que se expresa en el diseño CAD, materializando las ideas en objetos físicos, por consiguiente, este tipo de tecnología facilita el proceso de aprendizaje de los estudiantes desde los ciclos iniciales de la educación, como es la primaria, hasta llegar a la universidad; con este recorrido en los diferentes ciclos formativos del estudiante, se pueden imprimir de manera 3D piezas, arte o maquetas (arquitectónicas) para desarrollar prototipos.
 
         .col-md-4
           figure
@@ -57,7 +57,7 @@
 
       .row.justify-content-around.align-items-center(titulo="Construcción")
         .col-md-6.mb-4.mb-md-0
-          p Así mismo se está implementando en sector de la construcción representado en edificios y casa; lo importante en este aspecto es que pueden salvaguardar vidas humanas en zonas de catástrofes naturales y/o guerras; esto se da debido a que los refugios para este tipo de emergencias pueden construirse con una mayor celeridad. Por dar un ejemplo en una ciudad europea un equipo de personas utilizó la impresión 3D para darle vida a una casa de 40 metros cuadrados en un lapso de un día, otro ejemplo es en Holanda, donde pronto habrá un barrio formado por casas impresas en 3D. Además de ello este tipo de impresión permite la creación y posterior desarrollo diseños innovadores y visiones de la arquitectura que antes no eran posibles.
+          p Así mismo se está implementando en el sector de la construcción representado en edificios y casas; lo importante en este aspecto es que pueden salvaguardar vidas humanas en zonas de catástrofes naturales y/o guerras; esto se da debido a que los refugios para este tipo de emergencias pueden construirse con una mayor celeridad. Por dar un ejemplo, en una ciudad europea un equipo de personas utilizó la impresión 3D para darle vida a una casa de 40 metros cuadrados en un lapso de un día, otro ejemplo es en Holanda, donde pronto habrá un barrio formado por casas impresas en 3D. Además de ello este tipo de impresión permite la creación y posterior desarrollo de diseños innovadores y visiones de la arquitectura que antes no eran posibles.
 
         .col-md-4
           figure
@@ -65,7 +65,7 @@
 
       .row.justify-content-around.align-items-center(titulo="Partes del cuerpo y/o de prótesis de extremidades")
         .col-md-6.mb-4.mb-md-0
-          p Por otro lado en el sector de partes del cuerpo y/o de prótesis de extremidades esta tecnología ha tenido un impacto positivo en el sector médico, que va desde la producción de prótesis de piernas (personalizadas) para un deportista de alto rendimiento como un corredor de maratones, hasta la realización de un modelo de corazón (humano) para ayudar así a los cirujanos en este tipo de intervenciones, pasando por la fabricación de parte de animales que les falta alguna extremidad como lo fue la cola de un caimán al que la había perdido cuando sólo era una cría. De manera reciente en los Estados Unidos más específicamente en Chicago se realizó un experimento en el que un ratón con ovarios impresos en 3D dio a luz a crías totalmente sanas; como consecuencia de esto se cree que esto produce funcionar con nosotros los seres humanos, al seguir experimentando gracias a las investigaciones en curso.
+          p Por otro lado en el sector de partes del cuerpo y/o de prótesis de extremidades esta tecnología ha tenido un impacto positivo en el sector médico, que va desde la producción de prótesis de piernas (personalizadas) para un deportista de alto rendimiento como un corredor de maratones, hasta la realización de un modelo de corazón (humano) para ayudar así a los cirujanos en este tipo de intervenciones, pasando por la fabricación de partes de animales que les falta alguna extremidad como lo fue la cola de un caimán que la había perdido cuando sólo era una cría. De manera reciente, en los Estados Unidos, más específicamente en Chicago, se realizó un experimento en el que un ratón con ovarios impresos en 3D dio a luz a crías totalmente sanas; como consecuencia de esto se cree que esto puede funcionar con nosotros los seres humanos, al seguir experimentando gracias a las investigaciones en curso.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/T5/img-8.png')
