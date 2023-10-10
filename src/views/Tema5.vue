@@ -70,9 +70,9 @@
           figure
             img(src='@/assets/curso/temas/T5/img-8.png')
 
-      .row.justify-content-around.align-items-center(titulo="Alimentos y en los Instrumentos musicales")
+      .row.justify-content-around.align-items-center(titulo="Alimentos e instrumentos musicales")
         .col-md-6.mb-4.mb-md-0
-          p Ya para finalizar las últimas aplicaciones se tienen en los alimentos y en los Instrumentos musicales; en el primero se está imprimiendo chocolate a partir de un diseño digital y así mismo las empresas están llegando a imprimir alimentos comestibles como son las hamburguesas, helados, masa de galletas y mazapán. En el segundo ya se están fabricando flautas, bajos, violines y otros instrumentos como, por ejemplo; en una Universidad en Suecia se celebró el primer concierto en directo realizado con instrumentos impresos tridimensionalmente, además de los instrumentos se pueden utilizar para crear accesorios como boquillas.
+          p Para finalizar, las últimas aplicaciones se encuentran en los alimentos y los instrumentos musicales. En el primer caso, se imprime chocolate a partir de un diseño digital, y las empresas están comenzando a imprimir alimentos comestibles como hamburguesas, helados, masa de galletas y mazapán. En el segundo caso, ya se están fabricando flautas, bajos, violines, y otros instrumentos; por ejemplo, en una universidad en Suecia se celebró el primer concierto en directo realizado con instrumentos impresos tridimensionalmente. Además, estos instrumentos pueden utilizarse para crear accesorios como boquillas.
 
         .col-md-4
           figure
