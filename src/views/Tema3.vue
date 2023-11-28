@@ -91,17 +91,17 @@
     p.mb-5 La composición y características de los 3 tipos de materiales más usados se representan en la infografía.
     .row.justify-content-center.mb-5
       .col-lg-10
-        ImagenInfograficaB.mb-5
+        ImagenInfografica.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/T3/aj3.svg', alt='Texto que describa la imagen')
 
-          div(x="21.8%" y="92%")
+          .tarjeta.fgris2.p-3(x="21.8%" y="92%" numero="+")
             .row
               .col-md-2
                 figure
                   img(src='@/assets/curso/temas/T3/img-7.svg', alt='Texto que describa la imagen')
-              .col-md-6.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p.mb-3 
                   p 
                     i.fas.fa-circle.cad.me-2.text-small
@@ -144,12 +144,12 @@
                     | para realizar prototipos de alto nivel en detalle y/o para superficie lisas, muy similar a los moldes de inyección.
 
 
-          div(x="59%" y="92%")
+          .tarjeta.fgris2.p-3(x="59%" y="92%" numero="+")
             .row
               .col-md-2
                 figure
                   img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
-              .col-md-6.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p.mb-4 En el proceso de impresión se utilizan metales en aplicaciones que requieren mucha resistencia en el objeto a realizar. En este tipo de trabajo se optimiza la topología (propiedades de los cuerpos geométricos) que es vital para así maximizar el rendimiento de la pieza y reducir el alto costo que se genera. 
                 p.mb-3 Entre los metales más conocidos se tienen:
                   p 
@@ -172,12 +172,12 @@
                     strong.cp La fusión por haz de electrones o EDM (<i>Electron Beam Melting</i>):
                     | es una tecnología de impresión 3D de metales en donde se utiliza haz de electrones, que está controlado por bobinas electromagnéticas para así fundir el polvo metálico. 
 
-          div(x="97%" y="92%")
+          .tarjeta.fgris2.p-3(x="97%" y="92%" numero="+")
             .row
               .col-md-2
                 figure
                   img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
-              .col-md-6.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p.mb-4 Las impresoras 3D más modernas utilizan este tipo de materiales en polvo para construir los productos o piezas. Los polvos pueden proceder de diversas fuentes como el acero, el cobre y otros tipos de metal que son más fáciles en su transporte y modelamiento, según la forma deseada. Cabe recordar que el polvo metálico debe calentarse hasta el punto en que se funda y se pueda distribuir capa por capa de manera uniforme, para así formar la figura de manera total.
                   p 
                     i.fas.fa-circle.cad.me-2.text-small
