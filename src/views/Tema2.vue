@@ -216,12 +216,12 @@
     p.mb-5 Profundicemos un poco más sobre cada uno de los pasos durante el proceso de la impresión de una pieza 3D, en la siguiente infografía.
       
 
-    ImagenInfograficaB.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/T2/img-17.svg', alt='Texto que describa la imagen')
 
-      div(x="9.9%" y="105%" )
+      .tarjeta.fgris2.p-3(x="9.9%" y="105%" numero="+")
         p.mb-3 Lo primero que se realiza es crear un archivo digital (3D) del objeto que se desea imprimir; para ello, se utiliza un <i>software</i> CAD (Diseño asistido por computador). En el mercado hay gran variedad de <i>software</i> de tipo profesional y de un nivel básico que generan archivos compatibles con las impresoras 3D. 
         p.mb-3 A continuación, se enuncian 3 métodos que se pueden utilizar para obtener este archivo digital:
           p 
@@ -241,20 +241,20 @@
         p.mb-5 Existen algunos requerimientos para el diseño de los archivos 3D que tienen que cumplirse antes de la impresión, ya que se deben tener en cuenta aspectos como el grosor mínimo de las paredes, el tamaño adecuado de la escala y la estanqueidad (propiedad basada en la capacidad para que no penetren determinadas partículas).
 
 
-      div(x="26%" y="15%")
+      .tarjeta.fgris2.p-3(x="26%" y="15%" numero="+")
         p.mb-3 Antes de enviarlo a la impresora hay que convertir el archivo en un formato que la impresora lo acepte de manera adecuada; el formato o archivo para las impresoras (3D) más común se llama STL, que significa <i>StereoLithography</i>. Es importante recordar que STL es el nombre de la extensión de archivo que se utiliza, hay otras alternativas de extensión de archivos fuera del STL, como son 3MF y OBJ. 
         p.mb-5 Hay que aclarar que estos formatos de archivo no tienen información de color, por esta razón si se desea imprimir color en 3D es necesario tener formatos de archivo como WRL, .X3D, DAE, PLY.
 
-      div(x="42%" y="105%")
+      .tarjeta.fgris2.p-3(x="42%" y="105%" numero="+")
         p Este es el proceso que consta de traducir el archivo 3D en varias instrucciones para que la impresora 3D lo genere, es decir que consiste en dividir o cortar este modelo en cientos de capas horizontales para que así la máquina determine con exactitud lo que debe hacer. Después de hacer esta división se genera en nuevo formato de archivo llamado G-code, con la extensión GCODE, este es el lenguaje de programación de código numérico más usual en la fabricación asistida por ordenador para controlar máquinas y herramientas automatizadas como lo son las impresoras 3D y las máquinas CNC (controles numéricos por ordenador); es decir que este código G es el lenguaje de la máquina y por ello se utiliza para comunicarse con ella y realice lo que se le ordena.
 
-      div(x="59%" y="15%")
+      .tarjeta.fgris2.p-3(x="59%" y="15%" numero="+")
         p Las impresoras 3D están conformadas por varias piezas móviles o estáticas; ellas necesitan mantenimiento y una buena calibración para así producir impresiones de manera satisfactoria. La mayoría de estas (impresoras 3D) no necesitan que alguien esté para supervisar la impresión, esta máquina seguirá las instrucciones de manera automatizada, según corresponda al código G; es decir que mientras no haya un error en el <i>software</i> o se quede sin filamento (materia prima) no debe haber ningún pare o <i>stop</i> durante el proceso de la impresión.
 
-      div(x="74.5%" y="105%")
+      .tarjeta.fgris2.p-3(x="74.5%" y="105%" numero="+")
         p La extracción varía, según las diferentes tecnologías que contenga la impresión 3D, en algunos casos, como por ejemplo en las impresoras de mesa, es tan sencillo como separar la impresión de la plataforma de construcción; por otro lado, en el caso de las impresoras 3D industriales, la extracción de la pieza es un proceso tipo técnico que requiere habilidades o capacitación de tipo profesional y de equipos especializados, todo esto en un entorno controlado. 
 
-      div(x="91%" y="15%")
+      .tarjeta.fgris2.p-3(x="91%" y="15%" numero="+")
         p.mb-3 Este último paso variará, según las tecnologías de impresión 3D que se tengan y los materiales con los que se imprimieron las piezas u objetos. Algunas tecnologías permiten manipular las piezas de inmediato, mientras que otras requieren de algunos pasos adicionales para finalizar el proceso de fabricación. Este paso es importante para la función de las piezas y la estética de la misma.
         p.mb-5 Es muy usual que las piezas impresas en 3D salgan con una contextura rugosa que no es perfecta al tacto con su superficie; esto se mejora de manera significativa con artesanía y con las técnicas pertinentes mediante la pintura, el pulido, el lijado y otros métodos que hacen que las piezas impresas se conviertan en un modelo real muy cercano al original. Así mismo, hay variantes cuando no se trata de la estética, sino de las propiedades mecánicas de la pieza que pueden tener lugar en procesos industriales para el post- procesamiento; en general este paso puede ser una operación que requiera mucho tiempo y sea crítica y a medida que la tecnología va evolucionando la automatización de esos pasos se va generando.
 
@@ -277,4 +277,10 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+
+.img-infografica__card
+  width: auto
+.img-infografica__item__numero
+    font-size: 1.5rem
+</style>

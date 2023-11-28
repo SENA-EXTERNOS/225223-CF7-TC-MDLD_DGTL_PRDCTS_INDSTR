@@ -7,7 +7,7 @@
         span 4
       h1 Configuración de funciones básicas de una impresora 3D
 
-    .bloque-texto-a.color-secundario-custom.invert.p-4.p-md-5.mb-5npm 
+    .bloque-texto-a.color-secundario-custom.invert.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-md-10
           .bloque-texto-a__texto.p-4
